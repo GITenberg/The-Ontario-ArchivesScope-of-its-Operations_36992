@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37932'
     url: http://www.gutenberg.org/2009/agents/37932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36992#The-Ontario-ArchivesScope-of-its-Operations
 gutenberg_issued: '2011-08-06'
 gutenberg_type: Text
 identifiers:
